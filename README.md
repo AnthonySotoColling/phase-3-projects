@@ -3,13 +3,13 @@ welcome to Tonys epic video game store.We have the best deals and latest games.
 
 ---
 
-what can you to on our page? glad you asked
+what can you do on our page? glad you asked
 you can..
 
 - browse games
 - see our stock of games
 - see a rating of games
-- check for our priceing of games
+- check for our pricing of games
 - order games
 
 wireframe https://wireframe.cc/NWhXN4
